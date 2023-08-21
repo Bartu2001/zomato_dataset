@@ -1,4 +1,4 @@
-# zomato_dataset      #Data-Analysis
+# zomato_dataset      Data-Analysis
 Hello,Today, I would like to share a dataset with you that I previously used for SQL queries and analyses on BigQuery.
 In this dataset, I conducted data analysis and visualization using Python queries in Jupyter Notebook.
 If you have prior experience in data analysis, understanding this dataset and its logic might be easier;
